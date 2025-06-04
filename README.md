@@ -1,5 +1,4 @@
 
-
 🌐 Kişisel Web Sitem
 
 Bu proje, benim kişisel portföy sitemdir. Hakkımda bilgiler, projelerim ve iletişim bilgilerim yer almaktadır. Modern bir tasarıma ve responsive yapıya sahiptir.
